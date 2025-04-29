@@ -15,11 +15,12 @@ function HeroSection() {
           </h1>
 
           <h2 className="text-xl font-semibold text-gray-500 sm:text-2xl dark:text-gray-400 mt-4">
-            Full-Stack Developer & AI Integration Specialist
+            Frontend Developer
           </h2>
+
           <p className="mt-4 text-base text-pretty text-gray-700 sm:text-lg/relaxed dark:text-gray-200">
-            I build modern, scalable web applications and integrate AI-powered
-            solutions that help businesses innovate, automate, and grow.
+            I create modern, responsive, and user-friendly websites focused on
+            performance, accessibility, and clean design.
           </p>
 
           <div className="mt-4 flex gap-4 sm:mt-6">

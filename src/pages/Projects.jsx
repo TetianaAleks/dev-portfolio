@@ -16,8 +16,8 @@ function Projects() {
             My Projects
           </h2>
           <p className="mt-4 text-gray-600 dark:text-gray-300">
-            A selection of my recent work — websites, platforms, and AI
-            solutions.
+            A selection of my recent work — modern websites and user-friendly
+            web platforms.
           </p>
         </motion.div>
 

@@ -1,11 +1,10 @@
 export const projects = [
   {
-    title: "AI Chatbot for Business",
-    tech: "React · Node.js · GPT-4",
-    image:
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
+    title: "Personal Portfolio Website",
+    tech: "React · Vite · Tailwind CSS · Framer Motion · Formspree",
+    image: "/portfolio-project.png",
   },
-  {
+  /*{
     title: "Portfolio Website",
     tech: "React · Tailwind CSS",
     image:
@@ -16,20 +15,26 @@ export const projects = [
     tech: "Next.js · OpenAI API",
     image:
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
-  },
+  },*/
 ];
 
 export const projectsAll = [
   {
-    title: "AI Chatbot for E-commerce",
+    title: "Personal Portfolio Website",
     description:
-      "An intelligent chatbot integrated into an online store to assist customers, powered by OpenAI.",
-    technologies: ["React", "Node.js", "OpenAI API", "Tailwind CSS"],
-    imageUrl: "/project.jpg",
-    githubUrl: "https://github.com/your-profile/ai-chatbot",
-    liveUrl: "https://ai-chatbot-demo.vercel.app/",
+      "A modern, responsive portfolio built with React, Vite, and Tailwind CSS to showcase my frontend development skills and recent projects.",
+    technologies: [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Formspree",
+    ],
+    imageUrl: "/portfolio-project.png",
+    githubUrl: "https://github.com/TetianaAleks/dev-portfolio",
+    liveUrl: "https://your-portfolio.vercel.app/",
   },
-  {
+  /*{
     title: "Survey Platform",
     description:
       "A survey and form builder platform using SurveyJS and a custom backend.",
@@ -46,5 +51,5 @@ export const projectsAll = [
     imageUrl: "/project.jpg",
     githubUrl: "https://github.com/your-profile/portfolio-site",
     liveUrl: "https://portfolio-yourname.vercel.app/",
-  },
+  },*/
 ];

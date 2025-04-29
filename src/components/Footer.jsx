@@ -7,8 +7,7 @@ function Footer() {
         </div>
 
         <p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500 dark:text-gray-400 text-sm">
-          Crafting modern websites and AI-powered solutions with precision and
-          passion.
+          Crafting modern, responsive websites with precision and passion.
         </p>
 
         <ul className="mt-8 flex flex-wrap justify-center gap-6 md:gap-8">

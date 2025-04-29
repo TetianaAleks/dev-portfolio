@@ -5,12 +5,6 @@ Here, you can find a selection of my web development projects, from modern websi
 
 ---
 
-## ✨ Preview
-
-![Portfolio Screenshot](./public/portfolio-screenshot.png)
-
----
-
 ## 📋 Features
 
 - Modern responsive design
@@ -36,13 +30,13 @@ Here, you can find a selection of my web development projects, from modern websi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/TetianaAleks/dev-portfolio.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd your-portfolio
+cd dev-portfolio
 ```
 
 3. Install dependencies:
@@ -65,7 +59,7 @@ npm run dev
 
 If you'd like to collaborate or have any questions, feel free to reach out:
 
-- **GitHub**: [your-github-profile](https://github.com/your-profile)
+- **GitHub**: [your-github-profile](https://github.com/TetianaAleks)
 
 ---
 

@@ -11,8 +11,8 @@ function ProjectsPreview() {
           </h2>
 
           <p className="mt-4 text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            A selection of recent work I've done, focusing on modern websites
-            and AI-powered applications.
+            A selection of recent work I've done, focusing on modern,
+            responsive, and user-friendly websites.
           </p>
         </header>
 

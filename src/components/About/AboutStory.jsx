@@ -33,15 +33,14 @@ function AboutStory() {
               My journey into IT began early — I attended a specialized school
               with a strong emphasis on technology, where I consistently placed
               among the top students at IT competitions and Olympiads. Inspired
-              by my passion for problem-solving and innovation, I pursued a
+              by a passion for problem-solving and innovation, I pursued a
               Master's degree in Automation and Computer-Integrated
-              Technologies, deepening my expertise in engineering and software
-              development. Throughout my academic and professional path, I have
-              built a strong foundation in full-stack development, focusing on
-              creating modern, scalable, and AI-driven digital solutions. Today,
-              I am passionate about pushing the boundaries of what's possible,
-              learning continuously, and building solutions that make a
-              difference.
+              Technologies, where I deepened my skills in engineering and
+              software development. Throughout my academic and professional
+              path, I have focused primarily on frontend development, building
+              modern, responsive, and user-friendly web applications. Looking
+              ahead, I am expanding my expertise into full-stack development and
+              AI technologies to create even more powerful digital solutions.
             </p>
           </motion.div>
         </div>

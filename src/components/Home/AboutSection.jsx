@@ -26,16 +26,17 @@ function AboutSection() {
           </h2>
 
           <p className="mt-4 text-gray-600 dark:text-gray-300">
-            I'm Tetiana — a passionate Full-Stack Developer with a strong focus
-            on Frontend and AI integration. I create modern, responsive, and
-            intelligent web applications that combine clean design with
-            real-world functionality.
+            I'm Tetiana — a passionate Frontend Developer dedicated to building
+            modern, responsive, and user-centered web applications. I focus on
+            creating clean, accessible, and high-performance websites that
+            deliver a seamless user experience.
           </p>
 
           <p className="mt-4 text-gray-600 dark:text-gray-300 hidden md:block">
-            With hands-on experience in startups, EdTech platforms, and business
-            automation projects, I specialize in building fast, scalable, and
-            AI-enhanced digital solutions that drive innovation and growth.
+            With practical experience in web development for startups and
+            educational platforms, I specialize in crafting fast, scalable, and
+            visually engaging digital solutions that meet real-world business
+            needs.
           </p>
 
           <div className="mt-6">

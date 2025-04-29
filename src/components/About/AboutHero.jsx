@@ -12,15 +12,14 @@ function AboutHero() {
           className="text-center ltr:sm:text-left rtl:sm:text-right"
         >
           <h2 className="text-2xl font-bold text-gray-900 md:text-3xl dark:text-white">
-            Full-Stack Developer Crafting Digital Excellence
+            Frontend Developer Crafting Modern Digital Experiences
           </h2>
 
           <p className="mt-4 text-gray-600 dark:text-gray-300">
-            I'm Tetiana — a Middle Full-Stack Developer specializing in Angular,
-            TypeScript, .NET, and modern web technologies. With over 4 years of
-            experience, I design and build fast, scalable, and intelligent
-            applications that bridge functionality and beautiful design. Let's
-            create outstanding digital solutions together!
+            I'm Tetiana — a Frontend Developer passionate about creating modern,
+            responsive, and user-friendly web applications. With a focus on
+            clean design, accessibility, and performance, I build digital
+            experiences that are both beautiful and effective.
           </p>
 
           <div className="mt-8">
