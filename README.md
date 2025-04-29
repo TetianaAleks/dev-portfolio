@@ -59,7 +59,8 @@ npm run dev
 
 If you'd like to collaborate or have any questions, feel free to reach out:
 
-- **GitHub**: [github-profile](https://github.com/TetianaAleks)
+- **GitHub**: [github.com/TetianaAleks](https://github.com/TetianaAleks)
+- **Live Site**: [tetiana-dev.vercel.app](https://tetiana-dev.vercel.app)
 
 ---
 

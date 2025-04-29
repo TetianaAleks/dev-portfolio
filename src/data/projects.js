@@ -32,7 +32,7 @@ export const projectsAll = [
     ],
     imageUrl: "/portfolio-project.png",
     githubUrl: "https://github.com/TetianaAleks/dev-portfolio",
-    liveUrl: "https://your-portfolio.vercel.app/",
+    liveUrl: "https://tetiana-dev.vercel.app/",
   },
   /*{
     title: "Survey Platform",
