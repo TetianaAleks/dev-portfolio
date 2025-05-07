@@ -163,6 +163,14 @@ function Contact() {
             >
               GitHub
             </a>
+            <a
+              href="https://www.frontendmentor.io/profile/TetianaAleks"
+              target="_blank"
+              rel="noreferrer"
+              className="text-teal-600 hover:text-teal-500"
+            >
+              Frontend Mentor
+            </a>
           </div>
         </motion.div>
       </div>

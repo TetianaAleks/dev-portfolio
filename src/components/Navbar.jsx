@@ -87,7 +87,7 @@ function Navbar() {
 
             <button
               onClick={toggleTheme}
-              className="rounded-full bg-gray-100 p-2.5 text-gray-600 transition hover:text-gray-800 dark:bg-gray-800 dark:text-white dark:hover:text-gray-300"
+              className="rounded-full bg-gray-100 p-2.5 text-gray-600 transition hover:text-gray-800 dark:bg-gray-800 dark:text-white dark:hover:text-gray-300 cursor-pointer"
             >
               {isDark ? (
                 <svg

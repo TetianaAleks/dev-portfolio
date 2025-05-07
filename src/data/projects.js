@@ -1,24 +1,32 @@
 export const projects = [
   {
+    title: "Frontend Mentor Solutions",
+    tech: "Angular · Tailwind CSS · Angular Animation · SCSS (Sass) · Angular Router",
+    image: "/fem-projects-hub.png",
+  },
+  {
     title: "Personal Portfolio Website",
     tech: "React · Vite · Tailwind CSS · Framer Motion · Formspree",
     image: "/portfolio-project.png",
   },
-  /*{
-    title: "Portfolio Website",
-    tech: "React · Tailwind CSS",
-    image:
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
-  },
-  {
-    title: "E-commerce AI Assistant",
-    tech: "Next.js · OpenAI API",
-    image:
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80",
-  },*/
 ];
 
 export const projectsAll = [
+  {
+    title: "Frontend Mentor Solutions",
+    description:
+      "Frontend Mentor Solutions is an Angular-based project showcasing my completed Frontend Mentor challenges. It highlights responsive layouts, clean component structure, and modern UI practices — all in one place.",
+    technologies: [
+      "Angular",
+      " Tailwind CSS ",
+      "Angular Animation ",
+      "SCSS (Sass)",
+      "Angular Router",
+    ],
+    imageUrl: "/fem-projects-hub.png",
+    githubUrl: "https://github.com/TetianaAleks/fem-projects-hub",
+    liveUrl: "https://fem-projects-hub.vercel.app/",
+  },
   {
     title: "Personal Portfolio Website",
     description:
@@ -34,22 +42,4 @@ export const projectsAll = [
     githubUrl: "https://github.com/TetianaAleks/dev-portfolio",
     liveUrl: "https://tetiana-dev.vercel.app/",
   },
-  /*{
-    title: "Survey Platform",
-    description:
-      "A survey and form builder platform using SurveyJS and a custom backend.",
-    technologies: ["Angular", ".NET Core", "MongoDB"],
-    imageUrl: "/project.jpg",
-    githubUrl: "https://github.com/your-profile/survey-platform",
-    liveUrl: "https://survey-platform-demo.vercel.app/",
-  },
-  {
-    title: "Modern Portfolio Website",
-    description:
-      "A personal portfolio built with React, Tailwind, and smooth framer-motion animations.",
-    technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-    imageUrl: "/project.jpg",
-    githubUrl: "https://github.com/your-profile/portfolio-site",
-    liveUrl: "https://portfolio-yourname.vercel.app/",
-  },*/
 ];

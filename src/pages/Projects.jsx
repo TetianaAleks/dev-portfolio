@@ -15,10 +15,20 @@ function Projects() {
           <h2 className="text-3xl font-bold text-gray-900 dark:text-white">
             My Projects
           </h2>
-          <p className="mt-4 text-gray-600 dark:text-gray-300">
+          <p className="mt-4 text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             A selection of my recent work — modern websites and user-friendly
             web platforms.
           </p>
+          <div className="mt-6">
+            <a
+              href="https://fem-projects-hub.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block rounded-md bg-teal-600 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-teal-500"
+            >
+              See More Frontend Mentor Solutions
+            </a>
+          </div>
         </motion.div>
 
         <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
